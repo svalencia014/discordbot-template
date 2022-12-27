@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "discord.js": "^14.7.1"
-  }
+  },
+  "name": "discordbot-template",
+  "description": "This is a template for a discord.js bot. To get started, add your command(s) into the commands folder by either deleting `example.js` or modifying it and adding extra files as needed.",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svalencia014/discordbot-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svalencia014/discordbot-template/issues"
+  },
+  "homepage": "https://github.com/svalencia014/discordbot-template#readme"
 }
